@@ -1,0 +1,12 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 16" width="240" height="16">
+	<title>Body text</title>
+	<style>
+		tspan { white-space:pre } 
+		.t0 { font-size: 29px;line-height: 38px;fill: #30302f;font-weight: 800;font-family: "Barlow-ExtraBold", "Barlow" } 
+		.t1 { font-size: 29px;line-height: 38px;fill: #30302f;font-weight: 800;font-family: "RobotoSlab-ExtraBold", "Roboto Slab" } 
+	</style>
+	<text id="Body text" style="transform: matrix(.5,0,0,.5,.028,12.042)" >
+		<tspan x="0" y="0" class="t0" dx="0 0" >ı </tspan><tspan  y="0" class="t1" dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0" >    Quality and taste // Guaranteed
+</tspan>
+	</text>
+</svg>
